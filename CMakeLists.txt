@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.27)
+project(sorting_and_searching)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(sorting_and_searching main.cpp)
+add_executable(theo1 sortintegers.cpp)
+add_executable(theo2 flexibleintsort.cpp)
+add_executable(theo3 linearsearch.cpp)
+add_executable(theo4 binarysearch.cpp)
+add_executable(theo5 searchcompare.cpp)
+add_executable(theo6 vectorpermutations.cpp)
+add_executable(theo7 stlpermutations.cpp)
+add_executable(theo8 randompermute.cpp)
+add_executable(theo9 comparepermutations.cpp)
+add_executable(exercise1 reverse_vec.cpp)
+add_executable(exercise2 sorting_vector.cpp)
+add_executable(exercise3 rotate_vector.cpp rotate_vector.h)

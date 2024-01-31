@@ -1,0 +1,15 @@
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/sorting_and_searching.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo1.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo2.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo3.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo4.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo5.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo6.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo7.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo8.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/theo9.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/exercise1.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/exercise2.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/exercise3.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/sorting_and_searching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
