@@ -508,6 +508,78 @@ build exercise3.exe: CXX_EXECUTABLE_LINKER__exercise3_Debug CMakeFiles\exercise3
   TARGET_IMPLIB = exercise3.lib
   TARGET_PDB = exercise3.pdb
 
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise4
+
+
+#############################################
+# Order-only phony target for exercise4
+
+build cmake_object_order_depends_target_exercise4: phony || CMakeFiles\exercise4.dir
+
+build CMakeFiles\exercise4.dir\odd_even.cpp.obj: CXX_COMPILER__exercise4_unscanned_Debug C$:\Users\Lenovo\sorting_and_searching\odd_even.cpp || cmake_object_order_depends_target_exercise4
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise4.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise4.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise4.dir\
+  TARGET_PDB = exercise4.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise4
+
+
+#############################################
+# Link the executable exercise4.exe
+
+build exercise4.exe: CXX_EXECUTABLE_LINKER__exercise4_Debug CMakeFiles\exercise4.dir\odd_even.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise4.dir\
+  TARGET_FILE = exercise4.exe
+  TARGET_IMPLIB = exercise4.lib
+  TARGET_PDB = exercise4.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise5
+
+
+#############################################
+# Order-only phony target for exercise5
+
+build cmake_object_order_depends_target_exercise5: phony || CMakeFiles\exercise5.dir
+
+build CMakeFiles\exercise5.dir\duplicates_num.cpp.obj: CXX_COMPILER__exercise5_unscanned_Debug C$:\Users\Lenovo\sorting_and_searching\duplicates_num.cpp || cmake_object_order_depends_target_exercise5
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise5.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise5.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise5.dir\
+  TARGET_PDB = exercise5.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise5
+
+
+#############################################
+# Link the executable exercise5.exe
+
+build exercise5.exe: CXX_EXECUTABLE_LINKER__exercise5_Debug CMakeFiles\exercise5.dir\duplicates_num.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise5.dir\
+  TARGET_FILE = exercise5.exe
+  TARGET_IMPLIB = exercise5.lib
+  TARGET_PDB = exercise5.pdb
+
 
 #############################################
 # Utility command for edit_cache
@@ -540,6 +612,10 @@ build exercise2: phony exercise2.exe
 
 build exercise3: phony exercise3.exe
 
+build exercise4: phony exercise4.exe
+
+build exercise5: phony exercise5.exe
+
 build sorting_and_searching: phony sorting_and_searching.exe
 
 build theo1: phony theo1.exe
@@ -568,7 +644,7 @@ build theo9: phony theo9.exe
 #############################################
 # Folder: C:/Users/Lenovo/sorting_and_searching/cmake-build-debug
 
-build all: phony sorting_and_searching.exe theo1.exe theo2.exe theo3.exe theo4.exe theo5.exe theo6.exe theo7.exe theo8.exe theo9.exe exercise1.exe exercise2.exe exercise3.exe
+build all: phony sorting_and_searching.exe theo1.exe theo2.exe theo3.exe theo4.exe theo5.exe theo6.exe theo7.exe theo8.exe theo9.exe exercise1.exe exercise2.exe exercise3.exe exercise4.exe exercise5.exe
 
 # =============================================================================
 # Built-in targets

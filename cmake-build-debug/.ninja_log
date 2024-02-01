@@ -1,5 +1,5 @@
 # ninja log v5
-1	156	7284451586848236	build.ninja	625a286ab24cd38e
+1	132	7285132752022907	build.ninja	625a286ab24cd38e
 1590	2281	7280854017656821	theo2.exe	6aaadd5bdaf0c5fa
 1	834	7280369026172599	CMakeFiles/theo1.dir/sortintegers.cpp.obj	80aac8fc807b500
 835	1260	7280369030254377	theo1.exe	f335fcce3e9e1d64
@@ -9,6 +9,7 @@
 1	1686	7281027912768786	CMakeFiles/theo4.dir/binarysearch.cpp.obj	5da73e551ed32edd
 1	1420	7283447249611211	CMakeFiles/theo9.dir/comparepermutations.cpp.obj	bdd46981630e634d
 1687	2392	7281027919554873	theo4.exe	5c43bca35380c40c
+1	1428	7285080237798491	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
 0	1214	7282611709545877	CMakeFiles/theo5.dir/searchcompare.cpp.obj	2bb5ee829fc45a6a
 1215	1483	7282611711747940	theo5.exe	3a24a5d1317d936
 0	790	7282673551566226	CMakeFiles/theo7.dir/stlpermutations.cpp.obj	21706afd3bb6eeff
@@ -20,26 +21,8 @@
 1421	1679	7283447251675247	theo9.exe	e8825df992b3f21a
 1	572	7283963102414850	CMakeFiles/exercise2.dir/sorting_vector.cpp.obj	d8946c2f71d9d1f
 1	501	7283770760216393	CMakeFiles/exercise1.dir/reverse_vec.cpp.obj	bc43a2620bc9e4ff
+526	713	7285131327480084	exercise4.exe	5de6849626fcd964
 502	693	7283770761810892	exercise1.exe	b277c1cab8f97a6f
 572	765	7283963104020791	exercise2.exe	e979f4edd0fac876
-1	144	7284451586848236	build.ninja	625a286ab24cd38e
-1	1055	7284451597729008	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-1055	1636	7284451603389210	exercise3.exe	c5d520bd57e6b5cc
-0	985	7284465171788546	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-986	1219	7284465173748669	exercise3.exe	c5d520bd57e6b5cc
-1	499	7284467060717175	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-499	833	7284467063617280	exercise3.exe	c5d520bd57e6b5cc
-0	491	7284468764184468	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-492	686	7284468765788831	exercise3.exe	c5d520bd57e6b5cc
-1	530	7284471096689037	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-531	704	7284471098073824	exercise3.exe	c5d520bd57e6b5cc
-0	541	7284477099140436	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-542	860	7284477101704200	exercise3.exe	c5d520bd57e6b5cc
-1	500	7284477622435303	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-500	728	7284477624364412	exercise3.exe	c5d520bd57e6b5cc
-1	513	7284478136430309	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-514	771	7284478138598291	exercise3.exe	c5d520bd57e6b5cc
-0	574	7284481119953736	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-575	877	7284481122391583	exercise3.exe	c5d520bd57e6b5cc
-0	512	7284481580583398	CMakeFiles/exercise3.dir/rotate_vector.cpp.obj	68ac03e4c881b5ad
-512	797	7284481583037262	exercise3.exe	c5d520bd57e6b5cc
+1428	1758	7285080240261772	exercise3.exe	c5d520bd57e6b5cc
+1	525	7285131326108346	CMakeFiles/exercise4.dir/odd_even.cpp.obj	1ff10a864066fd21

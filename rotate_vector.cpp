@@ -19,6 +19,6 @@ void rotate(std::vector<int>& vec) {
 }
 
 int main(){
-    std::vector<int> input{2,1,10,4,3,6,7,9,8,5};
+    std::vector<int> input{4,12,78,43,6,7,9,8,3};
     rotate(input);
 }

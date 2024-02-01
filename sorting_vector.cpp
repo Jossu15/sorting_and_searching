@@ -41,7 +41,6 @@ void special_sort(std::vector<int>& vec, bool (*compare)(int, int)) {
         }
         else
             std::sort(vec.begin()+k, vec.end(), myfunction);
-
     }
 }
 
